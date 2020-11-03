@@ -1,0 +1,10 @@
+#employeetable td{
+    border:2px solid black
+}
+#employeetable thead{
+    font-size:20px;
+    font-weight: bold;
+}
+#employeetable{
+    border-spacing: 0;
+}
